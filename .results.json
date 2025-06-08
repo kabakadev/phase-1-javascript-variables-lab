@@ -1,13 +1,13 @@
 {
   "stats": {
-    "suites": 11,
-    "tests": 16,
-    "passes": 16,
+    "suites": 12,
+    "tests": 19,
+    "passes": 19,
     "pending": 0,
     "failures": 0,
-    "start": "2025-06-08T05:58:22.808Z",
-    "end": "2025-06-08T05:58:24.334Z",
-    "duration": 1526
+    "start": "2025-06-08T18:02:39.341Z",
+    "end": "2025-06-08T18:02:40.829Z",
+    "duration": 1488
   },
   "tests": [
     {
@@ -34,7 +34,7 @@
     {
       "title": "is defined using let",
       "fullTitle": "index.js mostProfitableNeighborhood is defined using let",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -69,7 +69,7 @@
     {
       "title": "is initially set to Susan Smith",
       "fullTitle": "index.js currentCEO is initially set to Susan Smith",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -83,21 +83,21 @@
     {
       "title": "is a number",
       "fullTitle": "index.js employeeCount is a number",
-      "duration": 2,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is a boolean and true",
       "fullTitle": "index.js isHiring is a boolean and true",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is an object with city and state",
       "fullTitle": "index.js companyLocation is an object with city and state",
-      "duration": 5,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -111,13 +111,34 @@
     {
       "title": "is defined using var",
       "fullTitle": "index.js legacySystem is defined using var",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is set to true",
       "fullTitle": "index.js legacySystem is set to true",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "is defined",
+      "fullTitle": "index.js add() is defined",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "adds two numbers correctly",
+      "fullTitle": "index.js add() adds two numbers correctly",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns NaN if given non-numeric input",
+      "fullTitle": "index.js add() returns NaN if given non-numeric input",
       "duration": 0,
       "currentRetry": 0,
       "err": {}
@@ -150,7 +171,7 @@
     {
       "title": "is defined using let",
       "fullTitle": "index.js mostProfitableNeighborhood is defined using let",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -185,7 +206,7 @@
     {
       "title": "is initially set to Susan Smith",
       "fullTitle": "index.js currentCEO is initially set to Susan Smith",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -199,21 +220,21 @@
     {
       "title": "is a number",
       "fullTitle": "index.js employeeCount is a number",
-      "duration": 2,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is a boolean and true",
       "fullTitle": "index.js isHiring is a boolean and true",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is an object with city and state",
       "fullTitle": "index.js companyLocation is an object with city and state",
-      "duration": 5,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -227,13 +248,34 @@
     {
       "title": "is defined using var",
       "fullTitle": "index.js legacySystem is defined using var",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is set to true",
       "fullTitle": "index.js legacySystem is set to true",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "is defined",
+      "fullTitle": "index.js add() is defined",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "adds two numbers correctly",
+      "fullTitle": "index.js add() adds two numbers correctly",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns NaN if given non-numeric input",
+      "fullTitle": "index.js add() returns NaN if given non-numeric input",
       "duration": 0,
       "currentRetry": 0,
       "err": {}

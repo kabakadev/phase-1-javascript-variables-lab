@@ -107,4 +107,19 @@ describe("index.js", function () {
       expect(legacySystem).to.be.true;
     });
   });
+  describe("add()", function () {
+    it("is defined", function () {
+      expect(add).to.be.a("function");
+    });
+    it("adds two numbers correctly", function () {
+      expect(add(2, 3)).to.equal(5);
+      expect(add(-1, 1)).to.equal(0);
+      expect(add(0, 0)).to.equal(0);
+    });
+    it("returns NaN if given non-numeric input", function () {
+      expect(add("a", 3)).to.be.NaN;
+      expect(add(3, "b")).to.be.NaN;
+      expect(add({}, [])).to.be.NaN;
+    });
+  });
 });
