@@ -1,26 +1,26 @@
 {
   "stats": {
-    "suites": 4,
-    "tests": 6,
-    "passes": 6,
+    "suites": 11,
+    "tests": 16,
+    "passes": 16,
     "pending": 0,
     "failures": 0,
-    "start": "2024-09-23T10:24:21.285Z",
-    "end": "2024-09-23T10:24:21.967Z",
-    "duration": 682
+    "start": "2025-06-08T05:58:22.808Z",
+    "end": "2025-06-08T05:58:24.334Z",
+    "duration": 1526
   },
   "tests": [
     {
       "title": "is set as Scuber",
       "fullTitle": "index.js companyName is set as Scuber",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is defined as a const",
       "fullTitle": "index.js companyName is defined as a const",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -48,6 +48,76 @@
     {
       "title": "is defined using let",
       "fullTitle": "index.js companyCeo is defined using let",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "is set to 1998",
+      "fullTitle": "index.js foundedYear is set to 1998",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "is defined using const",
+      "fullTitle": "index.js foundedYear is defined using const",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "is initially set to Susan Smith",
+      "fullTitle": "index.js currentCEO is initially set to Susan Smith",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "is defined using let",
+      "fullTitle": "index.js currentCEO is defined using let",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "is a number",
+      "fullTitle": "index.js employeeCount is a number",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "is a boolean and true",
+      "fullTitle": "index.js isHiring is a boolean and true",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "is an object with city and state",
+      "fullTitle": "index.js companyLocation is an object with city and state",
+      "duration": 5,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "is an array of departments",
+      "fullTitle": "index.js departments is an array of departments",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "is defined using var",
+      "fullTitle": "index.js legacySystem is defined using var",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "is set to true",
+      "fullTitle": "index.js legacySystem is set to true",
       "duration": 0,
       "currentRetry": 0,
       "err": {}
@@ -59,14 +129,14 @@
     {
       "title": "is set as Scuber",
       "fullTitle": "index.js companyName is set as Scuber",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is defined as a const",
       "fullTitle": "index.js companyName is defined as a const",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -94,6 +164,76 @@
     {
       "title": "is defined using let",
       "fullTitle": "index.js companyCeo is defined using let",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "is set to 1998",
+      "fullTitle": "index.js foundedYear is set to 1998",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "is defined using const",
+      "fullTitle": "index.js foundedYear is defined using const",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "is initially set to Susan Smith",
+      "fullTitle": "index.js currentCEO is initially set to Susan Smith",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "is defined using let",
+      "fullTitle": "index.js currentCEO is defined using let",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "is a number",
+      "fullTitle": "index.js employeeCount is a number",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "is a boolean and true",
+      "fullTitle": "index.js isHiring is a boolean and true",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "is an object with city and state",
+      "fullTitle": "index.js companyLocation is an object with city and state",
+      "duration": 5,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "is an array of departments",
+      "fullTitle": "index.js departments is an array of departments",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "is defined using var",
+      "fullTitle": "index.js legacySystem is defined using var",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "is set to true",
+      "fullTitle": "index.js legacySystem is set to true",
       "duration": 0,
       "currentRetry": 0,
       "err": {}
