@@ -1,26 +1,26 @@
 {
   "stats": {
-    "suites": 12,
-    "tests": 19,
-    "passes": 19,
+    "suites": 13,
+    "tests": 20,
+    "passes": 20,
     "pending": 0,
     "failures": 0,
-    "start": "2025-06-08T18:02:39.341Z",
-    "end": "2025-06-08T18:02:40.829Z",
-    "duration": 1488
+    "start": "2025-06-08T18:20:56.567Z",
+    "end": "2025-06-08T18:20:57.351Z",
+    "duration": 784
   },
   "tests": [
     {
       "title": "is set as Scuber",
       "fullTitle": "index.js companyName is set as Scuber",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is defined as a const",
       "fullTitle": "index.js companyName is defined as a const",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -34,7 +34,7 @@
     {
       "title": "is defined using let",
       "fullTitle": "index.js mostProfitableNeighborhood is defined using let",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -83,28 +83,28 @@
     {
       "title": "is a number",
       "fullTitle": "index.js employeeCount is a number",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is a boolean and true",
       "fullTitle": "index.js isHiring is a boolean and true",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is an object with city and state",
       "fullTitle": "index.js companyLocation is an object with city and state",
-      "duration": 2,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is an array of departments",
       "fullTitle": "index.js departments is an array of departments",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -139,6 +139,13 @@
     {
       "title": "returns NaN if given non-numeric input",
       "fullTitle": "index.js add() returns NaN if given non-numeric input",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "sets greeting text correctly",
+      "fullTitle": "index.js DOM manipulation sets greeting text correctly",
       "duration": 0,
       "currentRetry": 0,
       "err": {}
@@ -150,14 +157,14 @@
     {
       "title": "is set as Scuber",
       "fullTitle": "index.js companyName is set as Scuber",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is defined as a const",
       "fullTitle": "index.js companyName is defined as a const",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -171,7 +178,7 @@
     {
       "title": "is defined using let",
       "fullTitle": "index.js mostProfitableNeighborhood is defined using let",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -220,28 +227,28 @@
     {
       "title": "is a number",
       "fullTitle": "index.js employeeCount is a number",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is a boolean and true",
       "fullTitle": "index.js isHiring is a boolean and true",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is an object with city and state",
       "fullTitle": "index.js companyLocation is an object with city and state",
-      "duration": 2,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is an array of departments",
       "fullTitle": "index.js departments is an array of departments",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -276,6 +283,13 @@
     {
       "title": "returns NaN if given non-numeric input",
       "fullTitle": "index.js add() returns NaN if given non-numeric input",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "sets greeting text correctly",
+      "fullTitle": "index.js DOM manipulation sets greeting text correctly",
       "duration": 0,
       "currentRetry": 0,
       "err": {}

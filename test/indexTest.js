@@ -122,4 +122,10 @@ describe("index.js", function () {
       expect(add({}, [])).to.be.NaN;
     });
   });
+  describe("DOM manipulation", function () {
+    it("sets greeting text correctly", function () {
+      const greet = document.getElementById("greet");
+      expect(greet.textContent).to.equal("Hello!");
+    });
+  });
 });

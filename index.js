@@ -19,3 +19,5 @@ function add(a, b) {
   }
   return a + b;
 }
+
+document.getElementById("greet").textContent = "Hello!";
